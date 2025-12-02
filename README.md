@@ -5,9 +5,9 @@
 - [<b>Hola mundo!</b>]
 - [<b>¡Jugemos al gato! 🙀</b>]
 - <b>Proyecto de e-comerce</b>
-  - [Interfaz principal 1](https://github.com/SophVZ/interfaz_principal)
-  - [Paginas de productos 2](https://github.com/SophVZ/pages_productos)
-  - [Carrito 3](https://github.com/SophVZ/carrito)
+  - [Interfaz principal-Repositorio 1](https://github.com/SophVZ/interfaz_principal)
+  - [Paginas de productos-Repositorio 2](https://github.com/SophVZ/pages_productos)
+  - [Carrito-Repositorio 3](https://github.com/SophVZ/carrito)
 
 <h2>🤝 Connect with me:</h2>
 
