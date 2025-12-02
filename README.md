@@ -5,7 +5,7 @@
 - [<b>Hola mundo!</b>]
 - [<b>¡Jugemos al gato! 🙀</b>]
 - <b>Proyecto de e-comerce</b>
-  - [Respositorio 1](https://github.com/SophVZ/interfaz_principal)
+  - [Repositorio 1](https://github.com/SophVZ/interfaz_principal)
   - [Repositorio 2](https://github.com/SophVZ/pages_productos)
   - [Repositorio 3](https://github.com/SophVZ/carrito)
 
