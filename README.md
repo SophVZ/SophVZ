@@ -4,6 +4,7 @@
 
 - [<b>Hola mundo!</b>]
 - [<b>¡Jugemos al gato! 🙀</b>]
+- [Ejemplo de implementación de metodologías OOCSS, BEM y SMACSS](https://github.com/SophVZ/ej_OOCSS_BEM_SMACSS)
 - <b>Proyecto de e-comerce</b>
   - [Interfaz principal-Repositorio 1](https://github.com/SophVZ/interfaz_principal)
   - [Paginas de productos-Repositorio 2](https://github.com/SophVZ/pages_productos)
