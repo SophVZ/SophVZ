@@ -9,6 +9,7 @@
   - [Interfaz principal-Repositorio 1](https://github.com/SophVZ/interfaz_principal)
   - [Paginas de productos-Repositorio 2](https://github.com/SophVZ/pages_productos)
   - [Carrito-Repositorio 3](https://github.com/SophVZ/carrito)
+- [Juego de cachipún! ✊_✋ ✌ 💥](https://github.com/SophVZ/cachipun)
 
 <h2>🤝 Connect with me:</h2>
 
