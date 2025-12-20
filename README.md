@@ -1,4 +1,5 @@
-<h1>Hola, Soy Sofia Valenzuela.</h1> <h3>Desarrolladora Front-end (en fromación) 💻, capacitandoce en UX 🖼.</h3> <h4>Biologa Ambiental, con Magister en Ciencias Biologícas 🥼🐸.</h4>
+<h1>Hola, Soy Sofia Valenzuela.</h1> <h3>Desarrolladora Front-end (en fromación) 💻, capacitandoce en UX 🖼.</h3> 
+<h3>Biologa Ambiental, con Magister en Ciencias Biologícas 🥼🐸.</h3>
 
 <h3>👨‍💻 Proyectos de desarrollo Front-end:</h3>
 
