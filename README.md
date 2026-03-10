@@ -3,12 +3,21 @@
 
 <h3>👨‍💻 Proyectos de desarrollo Front-end:</h3>
 
-- [<b>Hola mundo!</b>]
-- [<b>¡Jugemos al gato! 🙀</b>]
+- [<b>Hola mundo!</b>](https://github.com/SophVZ/Hola_mundo)
+- [Camarones en el incio de CSS a JS](https://github.com/SophVZ/shrimpJS)
 - [Ejemplo de implementación de metodologías OOCSS, BEM y SMACSS](https://github.com/SophVZ/ej_OOCSS_BEM_SMACSS)
-- <b>Proyecto de e-comerce</b>
 - [Juego de cachipún! ✊_✋ ✌ 💥](https://github.com/SophVZ/cachipun)
 - [Calcular el promedio de un curso](https://github.com/SophVZ/promedio-curso)
+- [Uso de promesas](https://github.com/SophVZ/Promesas)
+- [Consumo de Ghibli Api](https://github.com/SophVZ/GhibliApi)
+- [Tabajo en equipo para hacer una Pokedéx!](https://github.com/SophVZ/Pokedex-API)
+
+Y  el pinaculo de consolidación de estos elementos:
+-  [<b>Proyecto de e-comerce Meme Store</b>](https://github.com/SophVZ/e-comerse-memeStore)
+
+Posteriormente se incorporo el uso de Vue:
+- [La Pokedéx anterior, ahora en Vue](https://github.com/SophVZ/pokevue)
+
 
 <h2>🤝 Contacto:</h2>
 
