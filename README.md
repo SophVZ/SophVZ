@@ -36,7 +36,7 @@
 
 <details>
 
-<summary>El inicio clasico de muchos programadores.</summary>
+<summary>El inicio clasico de muchos programadores:</summary>
 <br>
 
 🛠️ Tecnologías: 
