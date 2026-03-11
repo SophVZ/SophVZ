@@ -24,7 +24,7 @@
 
 <details>
 
-<summary><b><a href="https://github.com/SophVZ/Pokedex-API">Pokédex</a></b>🔴⚪: los datos de consumen desde la PokeAPI</summary>
+<summary><b><a href="https://github.com/SophVZ/Pokedex-API">Pokédex</a></b>🔴⚪: los datos de consumen desde la <a href="https://pokeapi.co/api/v2">PokeAPI</a>.</summary>
 
 <br>
 
