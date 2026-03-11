@@ -20,7 +20,7 @@
 </details>
 
 
-* <ins>**También logramos trabajar en grupo co y desarrollar la siguiente Pokédex:**</ins>
+* <ins>**También logramos trabajar en grupo y desarrollar la siguiente Pokédex:**</ins>
 
 <details>
 
@@ -58,7 +58,7 @@
 
 <details>
 
-<summary>Desarrollo basico de una web, impementación del navbar con Bootstrap y ancla al inicio con **smooth scroll**.</summary>
+<summary>Desarrollo basico de una web, impementación del navbar con <b>Bootstrap</b> y ancla al inicio con <b>smooth scroll</b>.</summary>
 
 <br>
 
