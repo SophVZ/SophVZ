@@ -20,7 +20,7 @@
 </details>
 
 
-* <ins>**También logramos trabajar en grupo y desarrollar la siguiente Pokédex:**</ins>
+* <ins>**También logramos trabajar en grupo co y desarrollar la siguiente Pokédex:**</ins>
 
 <details>
 
@@ -41,10 +41,13 @@
 <details>
 
 <summary>El inicio clasico de muchos programadores.</summary>
-
 <br>
 
-🛠️ Tecnologías: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+🛠️ Tecnologías: 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+📸 Un vistazo:
 
 <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/d3aa2b77-b1e1-4866-9422-8da8ba48078d" />
 </details>
