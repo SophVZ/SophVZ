@@ -80,7 +80,21 @@ A partir de la web anterior (la del camamrón), estandarice el CCS segun las 3 m
 
 
 - [**Juego de cachipún!** ✊_✋ ✌ 💥](https://github.com/SophVZ/cachipun)
+
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+
+![Vue.js](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Vuex](https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
+![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
+![SMACSS](https://img.shields.io/badge/SMACSS-BE4A3F?style=for-the-badge&logo=css3&logoColor=ffffff)
+![OOCSS](https://img.shields.io/badge/OOCSS-623154?style=for-the-badge&logo=css3&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
+![Potman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)
+![Visual Estudio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+
+
+
 - [Calcular el promedio de un curso](https://github.com/SophVZ/promedio-curso)
 - [Uso de promesas](https://github.com/SophVZ/Promesas)
 - [Consumo de Ghibli Api](https://github.com/SophVZ/GhibliApi)
