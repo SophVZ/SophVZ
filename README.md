@@ -9,28 +9,24 @@
 
 * <ins>**El pináculo de la consolidación de mis conocimientos actuales es el siguiente e-commerce:**</ins>
 
-<details>
-
-<summary><b><a href="https://github.com/SophVZ/e-comerse-memeStore">Meme Store</a></b>🖼💸📊: Un e-commerce enfocado en la venta de memes.</summary>
+<ul><details><summary><b><a href="https://github.com/SophVZ/e-comerse-memeStore">Meme Store</a></b>🖼💸📊: Un e-commerce enfocado en la venta de memes.</summary>
 
 <br>
 
 🛠️ Tecnologías:
   
-</details>
+</details></ul>
 
 
 * <ins>**También logramos trabajar en grupo y desarrollar la siguiente Pokédex:**</ins>
 
-<details>
-
-<summary><b><a href="https://github.com/SophVZ/Pokedex-API">Pokédex</a></b>🔴⚪: los datos de consumen desde la <a href="https://pokeapi.co/api/v2">PokeAPI</a>.</summary>
+<ul><details><summary><b><a href="https://github.com/SophVZ/Pokedex-API">Pokédex</a></b>🔴⚪: los datos de consumen desde la <a href="https://pokeapi.co/api/v2">PokeAPI</a>.</summary>
 
 <br>
 
 🛠️ Tecnologías:
   
-</details>
+</details></ul>
 
 ---
 
