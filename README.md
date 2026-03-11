@@ -36,7 +36,7 @@
 
 <h3>👨‍💻 Proyectos de desarrollo Front-end:</h3>
 
-- [<b>¡Hola mundo!</b>](https://github.com/SophVZ/Hola_mundo)
+
 
 <details>
 
@@ -49,7 +49,9 @@
 <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/d3aa2b77-b1e1-4866-9422-8da8ba48078d" />
 </details>
 
-- [**Camarones**](https://github.com/SophVZ/shrimpJS)
+- [<b>¡Hola mundo!</b>](https://github.com/SophVZ/Hola_mundo)
+
+
 
 <details>
 
@@ -65,6 +67,8 @@
 Recuerdo que me sentí muy orgullosa cuando logre hacer funcionar el **smooth scroll**, aunque ahora mire para atrás y se vea muy simple. Esta fue mi primera implementación de **JS** y salio bastante bien... Debo admitir que la responsibidad deja que desear.
 
 </details>
+
+- [**Camarones**](https://github.com/SophVZ/shrimpJS)
   
 - [**Metodologías OOCSS, BEM y SMACSS**](https://github.com/SophVZ/ej_OOCSS_BEM_SMACSS)
 
