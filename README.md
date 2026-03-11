@@ -1,12 +1,40 @@
 <h1>Hola, Soy Sofia Valenzuela.</h1> <h3>Desarrolladora Front-end (en fromación) 💻, capacitandoce en UX 🖼.</h3> 
 <h3>Biologa Ambiental, con Magister en Ciencias Biologícas 🥼🐸.</h3>
 
+---
+
+  Mi objetivo es trabajar en el desarrollo front-end, y especializarme en UX/UI, y posteriormente poder aprender el desarrollo de apps móviles y juegos.
+
+---
+
 <h3>👨‍💻 Proyectos de desarrollo Front-end:</h3>
 
-- [<b>Hola mundo!</b>](https://github.com/SophVZ/Hola_mundo)
-- [Camarones en el incio de CSS a JS](https://github.com/SophVZ/shrimpJS)
-- [Ejemplo de implementación de metodologías OOCSS, BEM y SMACSS](https://github.com/SophVZ/ej_OOCSS_BEM_SMACSS)
-- [Juego de cachipún! ✊_✋ ✌ 💥](https://github.com/SophVZ/cachipun)
+- [<b>¡Hola mundo!</b>](https://github.com/SophVZ/Hola_mundo)
+
+El inicio clasico de muchos programadores.
+
+🛠️ Tecnologías: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/d3aa2b77-b1e1-4866-9422-8da8ba48078d" />
+<br><br>
+
+- [**Camarones**](https://github.com/SophVZ/shrimpJS)
+
+Desarrollo basico de una web, impementación del navbar con Bootstrap y ancla al inicio con smooth scroll.  
+
+🛠️ Tecnologías: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+
+<img width="305" height="349" alt="image" src="https://github.com/user-attachments/assets/09c35775-0eba-4a5d-aa61-48f008ab9404" />
+
+Recuerdo que me sentí muy orgullosa cuando logre hacer funcionar el smoothscroll, aunque ahora mire para atrás y se vea muy simple. Esta fue mi primera implementación de JS y salio bastante bien... Debo admitir que la responsibidad deja que desear.
+<br><br>
+  
+- [**Metodologías OOCSS, BEM y SMACSS**](https://github.com/SophVZ/ej_OOCSS_BEM_SMACSS)
+
+A partir de la web anterior (la del camamrón), estandarice el CCS segun las 3 metodologias mas populares, OOCSS, BEM y SMACSS.
+
+- [**Juego de cachipún!** ✊_✋ ✌ 💥](https://github.com/SophVZ/cachipun)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 - [Calcular el promedio de un curso](https://github.com/SophVZ/promedio-curso)
 - [Uso de promesas](https://github.com/SophVZ/Promesas)
 - [Consumo de Ghibli Api](https://github.com/SophVZ/GhibliApi)
