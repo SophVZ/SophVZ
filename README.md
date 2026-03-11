@@ -38,22 +38,26 @@
 
 - [<b>¡Hola mundo!</b>](https://github.com/SophVZ/Hola_mundo)
 
-El inicio clasico de muchos programadores.
+<details>
+
+<summary>El inicio clasico de muchos programadores.</summary>
+
+<br>
 
 🛠️ Tecnologías: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/d3aa2b77-b1e1-4866-9422-8da8ba48078d" />
-<br><br>
+</details>
 
 - [**Camarones**](https://github.com/SophVZ/shrimpJS)
 
-Desarrollo basico de una web, impementación del navbar con Bootstrap y ancla al inicio con smooth scroll.  
+Desarrollo basico de una web, impementación del navbar con Bootstrap y ancla al inicio con **smooth scroll**.  
 
 🛠️ Tecnologías: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 
 <img width="305" height="349" alt="image" src="https://github.com/user-attachments/assets/09c35775-0eba-4a5d-aa61-48f008ab9404" />
 
-Recuerdo que me sentí muy orgullosa cuando logre hacer funcionar el smoothscroll, aunque ahora mire para atrás y se vea muy simple. Esta fue mi primera implementación de JS y salio bastante bien... Debo admitir que la responsibidad deja que desear.
+Recuerdo que me sentí muy orgullosa cuando logre hacer funcionar el **smooth scroll**, aunque ahora mire para atrás y se vea muy simple. Esta fue mi primera implementación de **JS** y salio bastante bien... Debo admitir que la responsibidad deja que desear.
 <br><br>
   
 - [**Metodologías OOCSS, BEM y SMACSS**](https://github.com/SophVZ/ej_OOCSS_BEM_SMACSS)
