@@ -11,7 +11,7 @@
 
 <details>
 
-<summary><b><a href="https://github.com/SophVZ/e-comerse-memeStore">Meme Store</a></b>: Un e-commerse enfocado en la venta de memes.</summary>
+<summary><b><a href="https://github.com/SophVZ/e-comerse-memeStore">Meme Store</a></b>🖼💸📊: Un e-commerse enfocado en la venta de memes.</summary>
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <details>
 
-<summary><b><a href="https://github.com/SophVZ/Pokedex-API">Pokédex</a></b>: los datos de consumen desde la PokeAPI</summary>
+<summary><b><a href="https://github.com/SophVZ/Pokedex-API">Pokédex</a></b>🔴⚪: los datos de consumen desde la PokeAPI</summary>
 
 <br>
 
