@@ -3,7 +3,34 @@
 
 ---
 
-  Mi objetivo es trabajar en el desarrollo front-end, y especializarme en UX/UI, y posteriormente poder aprender el desarrollo de apps móviles y juegos.
+  Mi **objetivo** es trabajar en el desarrollo front-end, y especializarme en UX/UI, y posteriormente poder aprender el desarrollo de apps móviles y juegos.
+  
+  Las tecnologías y frameworks que manejo son:
+
+* <ins>**El pináculo de la consolidación de mis conocimientos actuales es el siguiente e-commerce:**</ins>
+
+<details>
+
+<summary><b><a href="https://github.com/SophVZ/e-comerse-memeStore">Meme Store</a></b>: Un e-commerse enfocado en la venta de memes.</summary>
+
+<br>
+
+🛠️ Tecnologías:
+  
+</details>
+
+
+* <ins>**También logramos trabajar en grupo y desarrollar la siguiente Pokédex:**</ins>
+
+<details>
+
+<summary><b><a href="https://github.com/SophVZ/Pokedex-API">Pokédex</a></b>: los datos de consumen desde la PokeAPI</summary>
+
+<br>
+
+🛠️ Tecnologías:
+  
+</details>
 
 ---
 
@@ -32,6 +59,8 @@ Recuerdo que me sentí muy orgullosa cuando logre hacer funcionar el smoothscrol
 - [**Metodologías OOCSS, BEM y SMACSS**](https://github.com/SophVZ/ej_OOCSS_BEM_SMACSS)
 
 A partir de la web anterior (la del camamrón), estandarice el CCS segun las 3 metodologias mas populares, OOCSS, BEM y SMACSS.
+
+
 
 - [**Juego de cachipún!** ✊_✋ ✌ 💥](https://github.com/SophVZ/cachipun)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
